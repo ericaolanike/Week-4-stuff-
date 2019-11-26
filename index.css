@@ -1,2 +1,23 @@
-<img
-src=“http://4.bp.blogspot.com/-yXaX1hjK_mU/Vj529h-K6II/AAAAAAAABoY/xRnDupGhc8A/s1600/Virgin-Atlantic%2Bcrew.jpg” height=600px>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h4 {
+  color: black;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
